@@ -89,13 +89,13 @@ body {
 
 .social-info {
     margin-top: 60px;
+    list-style-type: none;
 }
 
-.social-info li {
+.social-info a {
     display: flex;
     align-items: center;
     justify-content: center;
-    list-style-type: none;
     height: 38px;
     width: 38px;
     background-color: rgba(0,0,0,.06);;
